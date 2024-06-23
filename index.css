@@ -1,0 +1,78 @@
+body{
+    display: flex;
+    justify-content: center;
+   background-color: #09143C;
+   font-family: "Oswald", sans-serif;
+    letter-spacing: 2px;
+    font-size: 30px;
+  
+}
+.basketball{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+   
+}
+
+
+.home1{
+    text-align: center;
+    margin-bottom: 10px;
+   border-radius: 3px;
+   font-size: 90px;
+    width: 100% ;
+    background-color: black;
+    
+}
+
+.home1 p{
+    padding: 30px;
+    margin-bottom: 100%;
+  
+    
+   
+}
+ 
+
+.qaz{
+    width:50px;
+    height: 40px;
+    color: aliceblue;
+    background-color:#09143C ;
+    border-radius: 6px;
+    border: 2px solid grey;
+    font-size: 20px;
+    margin-left: 5px;
+    font-family: CursedTimerUlil-Aznm;
+ 
+    
+}
+.Guest{
+   
+    margin-left:50px ;
+    margin-right: 70px;
+}
+@font-face {
+    src: url("CursedTimerUlil-Aznm.ttf");
+    font-family: CursedTimerUlil-Aznm;
+}
+#home-score{
+    font-family: CursedTimerUlil-Aznm;
+  color: red;
+  margin-bottom: 5px;
+  margin: 0;
+ 
+    
+}
+#guest-score{
+    font-family: CursedTimerUlil-Aznm;
+    color: red;
+    margin-bottom: 5px;
+    margin: 0;
+    
+}
+.yaseen{
+   margin: 20px;
+  
+}
